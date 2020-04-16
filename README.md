@@ -26,7 +26,7 @@ In this notebook, we implemented a model trying to predict customer churn. We re
 - These selected models:   
     - logistic regression   
     - Deciesion Tree   
-    - GBM   
+    - Gradient Boosted Trees (GBM)   
     - Random Forest   
 
  used to compare and select **GBM** as the final model implemented for predicting final result. We used cross validation and grid search to fine tune our model. We achieved about 0.91 F1 score on validation set which is about 35% improvement compare to our naive logistic regression baseline model.

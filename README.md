@@ -1,4 +1,5 @@
 # Sparkify
+![sparkify](/assets/sparkify.jpeg)
 ## Table of Contents
 
 - [Motivation](#motivation)
